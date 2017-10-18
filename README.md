@@ -9,4 +9,4 @@ Decoder: decode the message and checks and corrects any one bit error that occur
 
 main function is in the decoder
 
-- This project was made on a tight timeline with project specifcations dictating design (such as the inability to run encoder and decoder seperatly) 
+Pending Update: seperate Encoder Channel and Decoder to be stand alone
